@@ -1,3 +1,7 @@
+<img width="1024" height="1024" alt="arch" src="https://github.com/user-attachments/assets/f8b2bc8b-5b63-4679-93b7-a9b1b6ad7124" />
+
+
+
 # 📘 Unit 01: Full-Stack Architecture – Assignment 1  
 
 ## 📌 Overview  
